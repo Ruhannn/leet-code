@@ -22,6 +22,7 @@
 | [0007-reverse-integer](https://github.com/Ruhannn/leet-code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ruhannn/leet-code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ruhannn/leet-code/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Ruhannn/leet-code/tree/master/0050-powx-n) |
 # Linked List
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ruhannn/leet-code/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Ruhannn/leet-code/tree/master/0050-powx-n) |
 # Hash Table
 |  |
 | ------- |
