@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ruhannn/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruhannn/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 # String
 |  |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ruhannn/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Ruhannn/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Ruhannn/leet-code/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruhannn/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 # Math
@@ -53,3 +55,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ruhannn/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ruhannn/leet-code/tree/master/0005-longest-palindromic-substring) |
