@@ -1,5 +1,5 @@
 <!---LeetCode Topics Start-->
-## LeetCode Topics
+# LeetCode Topics
 ## Hash Table
 |  |
 | ------- |
