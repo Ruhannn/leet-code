@@ -1,4 +1,3 @@
-# leet-code
 <!---LeetCode Topics Start-->
 ## LeetCode Topics
 ## Hash Table
